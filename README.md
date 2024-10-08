@@ -6,12 +6,12 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ## Some Images:
 
-![Screenshot 2024-10-08 201440](https://github.com/user-attachments/assets/3cb98a88-33e0-4bd8-8fc9-553aea5b8fa2)
-![Screenshot 2024-10-08 201423](https://github.com/user-attachments/assets/b089cdaf-db2b-40be-b70a-4126a77011ab)
-![Screenshot 2024-10-08 201403](https://github.com/user-attachments/assets/1e09e42f-4ae3-4e36-a3f3-f59de69d2b8f)
-![Screenshot 2024-10-08 201328](https://github.com/user-attachments/assets/6c1803a1-7e3f-442e-aa1c-1f36e1685284)
-![Screenshot 2024-10-08 201300](https://github.com/user-attachments/assets/caaf69d7-0095-4543-8627-b64fc8e7cebd)
 ![Screenshot 2024-10-08 201244](https://github.com/user-attachments/assets/937b3881-9252-4451-b474-7e414d6dec93)
+![Screenshot 2024-10-08 201300](https://github.com/user-attachments/assets/caaf69d7-0095-4543-8627-b64fc8e7cebd)
+![Screenshot 2024-10-08 201328](https://github.com/user-attachments/assets/6c1803a1-7e3f-442e-aa1c-1f36e1685284)
+![Screenshot 2024-10-08 201403](https://github.com/user-attachments/assets/1e09e42f-4ae3-4e36-a3f3-f59de69d2b8f)
+![Screenshot 2024-10-08 201423](https://github.com/user-attachments/assets/b089cdaf-db2b-40be-b70a-4126a77011ab)
+![Screenshot 2024-10-08 201440](https://github.com/user-attachments/assets/3cb98a88-33e0-4bd8-8fc9-553aea5b8fa2)
 
 ## Introduction
 
